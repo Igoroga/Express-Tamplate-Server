@@ -7,7 +7,7 @@ Copy code
 mkdir express-template-server
 cd express-template-server
 Инициализируйте новый проект Node.js:
-
+---------------------------------------------------------------------
 
 npm init -y
 Установите необходимые зависимости:
