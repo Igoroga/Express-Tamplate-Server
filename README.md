@@ -2,7 +2,7 @@
 
 Создайте новый каталог для вашего проекта и перейдите в него:
 ---------------------------------------------------------------------
-shell
+shell   
 Copy code
 mkdir express-template-server
 cd express-template-server
