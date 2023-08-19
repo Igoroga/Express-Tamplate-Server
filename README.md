@@ -16,7 +16,7 @@ npm init -y
 npm install express
 Создайте файл server.js и откройте его для редактирования:
 
-
+-------------------------------------------------------------------
 const express = require('express');
 const app = express();
 const port = 3000;
